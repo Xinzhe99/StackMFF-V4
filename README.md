@@ -1,2 +1,3 @@
 # StackMFF-V4
-Official repository for StackMFF-V4.
+
+StackMFF V4 is a deterministic fusion model used in the generative multi-focus image fusion framework [GMFF](https://github.com/Xinzhe99/GMFF). Its training framework is based on [StackMFF V3](https://github.com/Xinzhe99/StackMFF-V3), with improvements made only in the network architecture. The [StackMFF V3](https://github.com/Xinzhe99/StackMFF-V3) project provides detailed training instructions and usage guidelines. Therefore, you can train StackMFF V4 by using StackMFF V3 as the base and replacing the network model with the one provided in [GMFF](https://github.com/Xinzhe99/GMFF).
